@@ -1,0 +1,6 @@
+{
+  "name": "FaithFlow AI",
+  "description": "An emotionally calming, premium faith-based interactive companion with personalized daily devotionals, AI-powered spiritual chat, guided prayer journaling, community healing, and smart reading streaks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
